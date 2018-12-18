@@ -43,6 +43,13 @@ module.exports = [
     pinned: false,
   },
   {
+    caption: 'Billwallet',
+    image: 'https://billwallet.counttrees.com/img/Billwallet.svg',
+    infoLink: 'https://billwallet.counttrees.com/',
+    fbOpenSource: true,
+    pinned: true,
+  },
+  {
     caption: 'Bowler',
     image: '/img/users/bowler.svg',
     infoLink: 'https://pybowler.io/',
